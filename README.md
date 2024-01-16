@@ -5,3 +5,4 @@ I'm not sticking to a particular language, so the solution may vary according to
 
 - Day 1 (python)
 - Day 2 (C#)
+- Day 4 (Java)
